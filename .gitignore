@@ -18,3 +18,4 @@ venv/
 # Large files
 *.zip
 *.tar
+.venv/
