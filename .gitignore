@@ -19,3 +19,7 @@ venv/
 *.zip
 *.tar
 .venv/
+
+#Environment variables/Secrets
+.env
+
